@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rizky Hadikusumah
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning Backend Engineer
+- 🌱 I’m currently as a Backend Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hadikusumahrizky@gmail.com
 
