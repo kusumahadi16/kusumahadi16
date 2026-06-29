@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rizky Hadikusumah
 - 👀 I’m interested in Data
 - 🌱 I’m currently as a Backend Developer
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on AI Project
 - 📫 How to reach me hadikusumahrizky@gmail.com
 
 <!---
